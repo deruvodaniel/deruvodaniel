@@ -2,6 +2,8 @@
 
 ### Frontend Developer with proven experience in Vue.js and Javascript 🌱
 
+* Currently working for Tokko Broker, Navent project 🏡
+* Always Learning! 💪
 * Helping companies create and maintain a better code base for reusability 🔭
 * Capable of continuous learning from senior developers 🤓
 * Adept in creating Web apps design, installation, testing and maintenance of software systems 🏅
