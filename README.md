@@ -2,7 +2,7 @@
 
 ### Frontend Developer with proven experience in Vue.js and Javascript 🌱
 
-* Currently working for
+* Currently working for [Making Sense](https://makingsense.com)
 * Always Learning! 💪
 * Helping companies create and maintain a better code base for reusability 🔭
 * Capable of continuous learning from senior developers 🤓
