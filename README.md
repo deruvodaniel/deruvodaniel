@@ -1,67 +1,37 @@
-# 👋 Hey, I'm Daniel De Ruvo
+# Daniel De Ruvo
 
-**Senior Frontend Engineer (UX & Design Systems)** with **6+ years of experience** building scalable React/Next.js applications, design systems, and high-performance user experiences.  
-Passionate about accessibility, product thinking, and using AI to accelerate development and UX workflows.
+**Senior Frontend and Design Engineer building AI-native products**
 
----
+I combine a background in Design and Visual Communication with 6+ years of frontend engineering experience. At Making Sense, I lead a 15-person UX Development team delivering React and Next.js products for teams across North America, Europe and LATAM.
 
-## 🔧 Tech Stack & Tools
+My work sits at the intersection of interface design, frontend architecture, design systems and applied AI. I use Claude Code, MCP, OpenAI and Gemini workflows to move from discovery to production while keeping accessibility, performance and maintainability in view.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
-![Vue](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=fff)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=fff)
-![ShadCN](https://img.shields.io/badge/ShadCN-000?style=for-the-badge)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=fff)
+## Selected work
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=fff)
+| Project | What it demonstrates | Links |
+| --- | --- | --- |
+| **AI Sticker Generator** | OpenAI image generation and edits, React, Express, Supabase and n8n workflows | [Live demo](https://sticker-generator-tan.vercel.app) · [Code](https://github.com/deruvodaniel/sticker-generator) |
+| **Production-Ready UI** | Atomic design, white-label design tokens, accessible components and Storybook | [Live demo](https://production-ready-ui-atomic-design.vercel.app) · [Code](https://github.com/deruvodaniel/production-ready-ui-atomic-design) |
+| **UX Dev Game** | Gamified learning experience built with React, TypeScript, Firebase and tested UI architecture | [Live demo](https://ux-dev-game-lemon.vercel.app) · [Code](https://github.com/deruvodaniel/ux-dev-game) |
+| **UX Developer Challenge** | The responsive and accessible technical assessment I designed for senior UX Developer hiring | [Live demo](https://ux-dev-candidates-challenge.vercel.app) · [Code](https://github.com/deruvodaniel/ux-dev-candidates-challenge) |
 
-![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=fff)
-![Contentful](https://img.shields.io/badge/Contentful-000?style=for-the-badge&logo=contentful&logoColor=fff)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=fff)
+## Focus
 
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=fff)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions&logoColor=fff)
+- **Frontend:** TypeScript, React, Next.js, React Native, Vue.js, GraphQL
+- **Design engineering:** design systems, Storybook, design tokens, Figma, accessibility and performance
+- **AI engineering:** Claude Code, Claude API, MCP, OpenAI and Gemini APIs, agent workflows and n8n
+- **Quality and delivery:** Playwright, Cypress, Jest, GitHub Actions, Docker, Vercel and AWS
+- **Leadership:** architecture, delivery, hiring, mentoring and team development
 
----
+## Current impact
 
-## 🏆 Experience & Achievements
+- Lead a 15-person UX Development team serving 10+ international clients.
+- Reduced MVP delivery cycles by up to 40% with AI-assisted discovery and engineering workflows.
+- Led Java-to-React migrations that reached WCAG 2.1 AA and improved conversion by about 10%.
+- Interviewed 30+ candidates and designed the technical challenge and onboarding process for the UX Development area.
 
-- Built **MVPs in record time** using AI-assisted workflows, design systems and rapid prototyping.  
-- Led multiple **Design System implementations** improving consistency and cutting development time.  
-- Delivered **AI-powered UI/UX processes** that reduced MVP delivery time by up to **40%**.  
-- Improved **performance & Lighthouse scores**, accessibility (WCAG 2.1 AA) and SEO across several products.  
-- Migrated legacy stacks (Java → React) and modernized architectures using **micro-frontends**.  
-- Collaborated with cross-functional teams across North America, Europe, and LATAM.  
-- Mentored developers, improved code quality practices, and supported hiring processes.  
+## Contact
 
----
+I am available for remote Senior Frontend Engineer, Design Engineer and Frontend Lead opportunities with US teams.
 
-## 📈 GitHub Stats
-
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deruvodaniel&show_icons=true&count_private=true&hide_title=true&theme=default)
-
----
-
-## 🎨 About Me
-
-Outside of tech, I’m also:
-- 👨‍🍳 A passionate **cook**  
-- 🎸 A **musician**  
-- 🏃‍♂️ A **mountain runner** (trail running + adventure routes)
-
-I love combining creativity, movement, and problem-solving — it fuels everything I build.
-
----
-
-## 📫 Connect with Me
-
-- **Portfolio:** https://portfolio-daniel-de-ruvo.vercel.app  
-- **LinkedIn:** https://www.linkedin.com/in/deruvodaniel  
-- **Email:** deruvodaniel@gmail.com
-
+[Portfolio](https://portfolio-daniel-de-ruvo.vercel.app) · [LinkedIn](https://www.linkedin.com/in/deruvodaniel) · [Email](mailto:deruvodaniel@gmail.com)
