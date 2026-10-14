@@ -1,23 +1,24 @@
 # Daniel De Ruvo
 
-**Senior Frontend and Design Engineer building AI-native products**
+**Senior Frontend & Design Engineer · Fullstack product development · AI**
 
 I combine a background in Design and Visual Communication with 6+ years of frontend engineering experience. At Making Sense, I lead a 15-person UX Development team delivering React and Next.js products for teams across North America, Europe and LATAM.
 
-My work sits at the intersection of interface design, frontend architecture, design systems and applied AI. I use Claude Code, MCP, OpenAI and Gemini workflows to move from discovery to production while keeping accessibility, performance and maintainability in view.
+My work connects interface design, frontend architecture and fullstack product delivery. I build React and Next.js experiences alongside APIs, data integrations and AI workflows, with accessibility, performance and maintainability in view.
 
 ## Selected work
 
 | Project | What it demonstrates | Links |
 | --- | --- | --- |
 | **AI Sticker Generator** | OpenAI image generation and edits, React, Express, Supabase and n8n workflows | [Live demo](https://sticker-generator-tan.vercel.app) · [Code](https://github.com/deruvodaniel/sticker-generator) |
-| **Production-Ready UI** | Atomic design, white-label design tokens, accessible components and Storybook | [Live demo](https://production-ready-ui-atomic-design.vercel.app) · [Code](https://github.com/deruvodaniel/production-ready-ui-atomic-design) |
-| **UX Dev Game** | Gamified learning experience built with React, TypeScript, Firebase and tested UI architecture | [Live demo](https://ux-dev-game-lemon.vercel.app) · [Code](https://github.com/deruvodaniel/ux-dev-game) |
+| **Fuelcore** | AI-assisted nutrition product with Next.js API routes, Firebase and Gemini | Case study in progress |
+| **Lavenius** | Medical management interface built with React, TypeScript, Clerk and FullCalendar | [Live demo](https://lavenius-fe.vercel.app) · [Code](https://github.com/deruvodaniel/lavenius-fe) |
 | **UX Developer Challenge** | The responsive and accessible technical assessment I designed for senior UX Developer hiring | [Live demo](https://ux-dev-candidates-challenge.vercel.app) · [Code](https://github.com/deruvodaniel/ux-dev-candidates-challenge) |
 
 ## Focus
 
 - **Frontend:** TypeScript, React, Next.js, React Native, Vue.js, GraphQL
+- **Fullstack:** Express and Next.js APIs, Supabase, Firebase, REST and data integrations
 - **Design engineering:** design systems, Storybook, design tokens, Figma, accessibility and performance
 - **AI engineering:** Claude Code, Claude API, MCP, OpenAI and Gemini APIs, agent workflows and n8n
 - **Quality and delivery:** Playwright, Cypress, Jest, GitHub Actions, Docker, Vercel and AWS
